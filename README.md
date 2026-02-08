@@ -1,3 +1,5 @@
+These are the guidelines to run our proposed model, named MVCIB.
+
 ## Reproducibility
 
 ### Datasets 
